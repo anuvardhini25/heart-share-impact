@@ -1,4 +1,4 @@
-# ImpactEchoes – Transparent Giving Platform
+# HopeLink – Transparent Giving Platform
 
 ## 1. Introduction
 ImpactEchoes is a centralized web-based platform developed to enhance transparency, accountability, and efficiency in non-governmental organization (NGO) operations. The system integrates donors, volunteers, beneficiaries, and NGO administrators into a unified digital ecosystem, enabling structured coordination and real-time visibility of social impact activities.
